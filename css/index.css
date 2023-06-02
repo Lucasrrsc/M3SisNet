@@ -1,0 +1,9 @@
+span{
+    color: red
+}
+
+.menu-text{
+    font-size: 15px;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
